@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YRBIbb7PeiJNB784qev1UZwdvN6qmoh38Z/AJrBAcpc=",
+  "Source": "ReviewApp.API",
+  "BasePath": "_content/ReviewApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
